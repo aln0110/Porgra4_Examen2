@@ -1,0 +1,30 @@
+[
+{
+    "nomPaciente": "John Doe",
+    "nomDoctor": "Dr. Smith",
+    "cedPaciente": "123456789",
+    "cedDoctor": "987654321",
+    "valoracion": "Good",
+    "gravedad": "High",
+    "descripcion": "Patient needs immediate attention",
+    "estado": true,
+    "fecha": "2023-06-10T10:00:00",
+    "motivo": "Severe pain",
+    "diagnostico": "Appendicitis",
+    "tratamiento": "Surgery"
+},
+{
+    "nomPaciente": "Juan Pérez",
+    "nomDoctor": "Dr. García",
+    "cedPaciente": "123456789",
+    "cedDoctor": "987654321",
+    "valoracion": "Bueno",
+    "gravedad": "Alta",
+    "descripcion": "El paciente necesita atención inmediata",
+    "estado": true,
+    "fecha": "2023-06-10T10:00:00",
+    "motivo": "Dolor severo",
+    "diagnostico": "Apendicitis",
+    "tratamiento": "Cirugía"
+}
+]
